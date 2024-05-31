@@ -1,0 +1,6 @@
+﻿  test_2019.cpp
+C:\Program Files\ffmpeg\include\libavutil\rational.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\source\repos\test_2019\test_2019\test_2019.cpp(64,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\source\repos\test_2019\test_2019\test_2019.cpp(199,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\source\repos\test_2019\test_2019\test_2019.cpp(320,20): warning C4244: “=”: 从“double”转换到“BYTE”，可能丢失数据
+  test_2019.vcxproj -> D:\source\repos\test_2019\x64\Debug\test_2019.exe
